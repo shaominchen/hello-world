@@ -1,2 +1,3 @@
 # hello-world
-My playland
+
+This is my personal playland for trying new stuff!
